@@ -1,0 +1,21 @@
+img.wp-smiley,
+img.emoji {
+	display
+	border
+	box-shadow
+	height
+	width
+	margin
+	vertical-align
+	background
+	padding
+}
+<style>
+    table,th,td {
+      border : 1px solid black;
+      border-collapse: collapse;
+    }
+    th,td {
+      padding: 5px;
+    }
+  </style>
